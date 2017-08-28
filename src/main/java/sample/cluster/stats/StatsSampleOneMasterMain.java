@@ -1,4 +1,4 @@
-package sample.cluster.stats.singleton;
+package sample.cluster.stats;
 
 import akka.actor.ActorSystem;
 import akka.actor.PoisonPill;
